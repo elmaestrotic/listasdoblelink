@@ -1,0 +1,3 @@
+C:/Users/Asus/CLionProjects/listicas2/cmake-build-debug/CMakeFiles/listicas2.dir
+C:/Users/Asus/CLionProjects/listicas2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/CLionProjects/listicas2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

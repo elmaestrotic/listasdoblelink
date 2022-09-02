@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/CLionProjects/listicas2/ListaDoblementeEnlazada.cpp
+iostream
+-
+ListaDoblementeEnlazada.h
+C:/Users/Asus/CLionProjects/listicas2/ListaDoblementeEnlazada.h
+
+C:/Users/Asus/CLionProjects/listicas2/ListaDoblementeEnlazada.h
+Nodo.h
+C:/Users/Asus/CLionProjects/listicas2/Nodo.h
+
+C:/Users/Asus/CLionProjects/listicas2/Nodo.cpp
+Nodo.h
+C:/Users/Asus/CLionProjects/listicas2/Nodo.h
+
+C:/Users/Asus/CLionProjects/listicas2/Nodo.h
+
+C:/Users/Asus/CLionProjects/listicas2/main.cpp
+iostream
+-
+ListaDoblementeEnlazada.h
+C:/Users/Asus/CLionProjects/listicas2/ListaDoblementeEnlazada.h
+
